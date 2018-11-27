@@ -1,6 +1,6 @@
 package fix
 
-import scalafix._
+import scalafix.v0._
 import scala.meta._
 
 import scalafix.util.SymbolMatcher
